@@ -1,0 +1,5 @@
+-   id: flutter-analyze
+    name: Flutter Code Analyze
+    entry: run
+    language: script
+    files: \.dart$
