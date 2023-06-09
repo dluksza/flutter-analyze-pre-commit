@@ -5,6 +5,5 @@
     files: \.dart$
 -   id: dart-format
     name: Dart Code format
-    entry: run-format
+    entry: rundartformat
     language: script
-    files: \.dart$
