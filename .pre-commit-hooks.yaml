@@ -7,3 +7,4 @@
     name: Dart Code format
     entry: rundartformat
     language: script
+    files: \.dart$
