@@ -3,3 +3,8 @@
     entry: run
     language: script
     files: \.dart$
+-   id: dart-format
+    name: Dart Code format
+    entry: run-format
+    language: script
+    files: \.dart$
